@@ -4,7 +4,7 @@ Spark structured-streaming 消费kafka数据写入hbase<br />
 
 # 数据格式
 
-```python
+```
 // 数据写入格式如下(中间分割符为\001)
 // dbName tableName tableRowkey tableData
 // tets test 1111 {"a1":"a1","a2":"a3"}
