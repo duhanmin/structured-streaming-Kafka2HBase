@@ -9,3 +9,9 @@ Spark structured-streaming 消费kafka数据写入hbase<br />
 // dbName tableName tableRowkey tableData
 // tets test 1111 {"a1":"a1","a2":"a3"}
 ```
+```
+		String json21 = "A"+ "\001"
+				+ "test2"+ "\001"
+				+ "1111"+ "\001"
+				+ "{\"a1\":\"a1\",\"a2\":\"a3\"}";
+```
