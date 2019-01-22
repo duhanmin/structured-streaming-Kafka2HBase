@@ -17,3 +17,6 @@ tets test 1111 {"a1":"a1","a2":"a3"}
 + "1111"+ "\001"
 + "{\"a1\":\"a1\",\"a2\":\"a3\"}"
 ```
+
+# 赞助
+<img src="https://github.com/duhanmin/mathematics-statistics-python/blob/master/images/90f9a871536d5910cad6c10f0297fc7.jpg" width="250">
